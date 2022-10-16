@@ -1,0 +1,15 @@
+{
+    "name": "jerome/app",
+    "autoload": {
+        "psr-4": {
+            "Jerome\\App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jérôme Legrand",
+            "email": "jerome.legrand.79@gmail.com"
+        }
+    ],
+    "require": {}
+}
